@@ -1,0 +1,91 @@
+body{
+    background-color:black;
+}
+div{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:240%;
+    background-color:red;
+    width:100%;
+    height:40px;
+    text-align:center;
+    padding: 1px 1px 1px 1px;
+}
+.button1 {
+background:url(https://w.ndtvimg.com/sites/3/2020/10/09180436/660-5.jpg);
+background-repeat:no-repeat;
+background-size:100% 230px;
+width:50%;
+height: 150px;
+color:white;
+font-size:1.8em;
+text-shadow: 0 0.5em 0.5em -0.4em #f1ff5c ;
+font-family: 'Acme', sans-serif;
+}
+.button1:hover {
+    color:red;
+    cursor:pointer;
+    border:5px solid red;
+    border-radius: 7px;
+    transition: all 0.5s;
+    transform: translateY(-0.1em);
+    font-size:3em;
+}
+
+.button2 {
+    background:url(https://thumbs.dreamstime.com/b/woman-fitness-medicine-ball-exercises-silhouette-one-caucasian-exercising-studio-isolated-white-background-48847537.jpg);
+    width:50%;
+    height: 150px;
+    background-repeat:no-repeat;
+    background-size:100% 250px;
+    color:white;
+    font-size:1.8em;
+    font-family: 'Acme', sans-serif;
+}
+.button2:hover {
+    color:red;
+    cursor:pointer;
+    border:5px solid red;
+    border-radius: 7px;
+    transition: all 0.5s;
+    transform: translateY(-0.1em);
+    font-size:3em;
+}
+    
+.button3 {
+        background:url(https://lehighmd.com/wp-content/uploads/2019/08/rsz_29-06-1280x640.jpg);
+        background-size:100% 200px;
+        width:50%;
+        height: 150px;
+        color:white;
+        font-size:1.8em;
+        font-family: 'Acme', sans-serif;
+        }
+        
+.button3:hover {
+            color:red;
+            cursor:pointer;
+            border:5px solid red;
+            border-radius: 7px;
+            transition: all 0.5s;
+            transform: translateY(-0.1em);
+            font-size:1.82em;
+}
+        
+.button4 {
+            background:url(https://image.shutterstock.com/image-photo/banner-close-healthcare-medical-doctor-260nw-1711574896.jpg);
+            width:50%;
+            height: 150px;
+            color:white;
+            font-size:1.8em;
+            font-family: 'Acme', sans-serif;
+            }
+.button4:hover {
+                color:red;
+                cursor:pointer;
+                border:5px solid red;
+                border-radius: 7px;
+                transition: all 0.5s;
+                transform: translateY(-0.1em);
+                font-size:2.5em;
+}
+            }            
